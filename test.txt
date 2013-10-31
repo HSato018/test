@@ -1,2 +1,2 @@
 ﻿Hello GitHub
- Goodbye GitHub
+Goodbye GitHub
